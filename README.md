@@ -1,1 +1,1 @@
-# This repo hosts dubbo.io which is eventually redirected to https://dubbo.apache.org
+# This repo hosts dubbo.io which has been redirected to https://dubbo.apache.org
